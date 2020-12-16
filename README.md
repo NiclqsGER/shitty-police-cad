@@ -5,7 +5,7 @@ Das BlueLife Webinterface wurde von [Niclas Kedzierski][https://www.kedziersk-i.
 >Copyright ©2020 Niclas Kedzierski
 >Heresbachstraße 17, 46459 Rees 
 >Nordrhein-Westfalen, Deutschland (Germany)
-
+>
 >Alle Rechte vorbehalten. Kein Teil dieses Internetangebots darf in irgendeiner Form ohne vorherige schriftliche Genehmigung der Autoren reproduziert oder unter
 >Verwerndung elektronischer Systeme verarbeitet, vervielfältigt oder verbreitet werden.
 >
