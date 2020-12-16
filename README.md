@@ -17,6 +17,7 @@ Das BlueLife Webinterface wurde von [Niclas Kedzierski][https://www.kedziersk-i.
 >Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen ensprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige 
 >Inhalte umgehend entfernen.
 >Bitte fragen Sie uns einfach voher, falls Sie Inhalte, auch auszugweise verwenden möchten.
+>
 >Kontakt: Niclas@Kedziersk-i.de
 
     
