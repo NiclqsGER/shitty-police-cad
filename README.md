@@ -1,7 +1,7 @@
-## BlueLifeRP - Webinterface
+# BlueLifeRP - Webinterface
 Das BlueLife Webinterface wurde von Niclas Kedzierski entwickelt.
 
-# Copyright
+### Copyright
 >Copyright ©2020 Niclas Kedzierski
 >Heresbachstraße 17, 46459 Rees 
 >Nordrhein-Westfalen, Deutschland (Germany)
