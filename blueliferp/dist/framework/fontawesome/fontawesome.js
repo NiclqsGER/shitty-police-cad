@@ -1,1 +1,1 @@
-# Bitte eigene Datei einbinden. (Grund: Verwende PRO-KIT)
+// Bitte eigene Datei einbinden. (Grund: Verwende PRO-KIT)
