@@ -1,0 +1,23 @@
+.control-container {
+    height: 60px;
+    background-color: rgb(194, 194, 194);
+    width: 100%;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.mitarbeiter-box {
+    margin-bottom: 10px;
+}
+
+.content-box {
+    z-index: 1;
+    position: relative;
+    height: auto;
+    width: 100%;
+    border: 1px solid black;
+}
+
+.content-box > table > td {
+    margin-right: 20px;
+}

@@ -1,0 +1,91 @@
+body, html {
+    height: 100vh;
+    width: 100%;
+    background-image: url('../../dist/image/login-wallpaper.jpg');
+}
+
+.login-app {
+    height: 400px;
+    background-color: #226099;
+    border-radius: 15px;
+    border: 1px solid #ffffff;
+}
+
+.login-app > .login-header {
+    height: 70px;
+    width: 100%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.login-app > .login-header > img {
+    width: 100%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom: 3px solid #fff;
+    z-index: 1;
+}
+
+.login-app > .login-brand {
+    position: relative;
+    width: 150px;
+    height: 35px;
+    background-color: rgb(255, 255, 255);
+    z-index: 2;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 45px;
+    border: 1px solid #fff;
+    text-align: center;
+}
+
+.login-app > .login-brand a {
+    font-family: 'Goldman', cursive;
+    font-size: 22px;
+    letter-spacing: 2px;
+}
+
+.login-app > .login-form {
+    width: 200px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+
+.login-app > .login-form :last-child{
+    margin-top: 10px;
+}
+
+.login-app > .login-form > form > a {
+    color: #fff;
+    font-size: 15px;
+}
+
+.login-app > .login-form > form > input {
+    width: 200px;
+    border-radius: 5px;
+}
+
+.login-app > .login-form > form > button {
+    margin-top: 15px;
+    width: 100%;
+}
+
+.login-app > hr {
+    margin-top: 35px;
+    margin-bottom: 24px;
+    background-color: #fff;
+    height: 3px;
+}
+
+.login-app > .login-info {
+    width: 200px;
+    height: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #fff;
+    text-align: center;
+    font-size: 12px;
+}
