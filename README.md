@@ -11,9 +11,9 @@ Das BlueLife Webinterface wurde von Niclas Kedzierski entwickelt.
 >
 >Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.
 > Ausgenommen davon sind folgende Personen/Unternehmen/Projekte:
-> - City-V.de (𝕵𝖊𝖋𝖋𝖊𝖗𝖞#3131)
+> - City-V.de (𝕵𝖊𝖋𝖋𝖊𝖗𝖞#3131, Benno2406#4569)
 > - scrypth0n#6691
-> - OnlyAlex - GTA 5#3475 (OnlyScripts)
+> - OnlyScripts (OnlyAlex - GTA 5#3475)
 >
 >Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhatle Dritter als solche      gekennzeichnet.
 >Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen ensprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige 
