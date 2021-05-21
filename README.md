@@ -10,6 +10,9 @@ Das BlueLife Webinterface wurde von Niclas Kedzierski entwickelt.
 >Alle Inhalte, insbesondere Texte, Fotografien und Grafikten, sind urheberrechtlich geschützt (Copyright, einige Grafikenstammen NICHT aus dem Besitz von Niclas Kedzierski)
 >
 >Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.
+> Ausgenommen davon sind folgende Person/Unternehmen/Projekte:
+> - City-V.de (𝕵𝖊𝖋𝖋𝖊𝖗𝖞#3131)
+> - scrypth0n#6691
 >
 >Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhatle Dritter als solche      gekennzeichnet.
 >Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen ensprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige 
