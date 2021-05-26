@@ -17,6 +17,7 @@ Das BlueLife Webinterface wurde von Niclas Kedzierski entwickelt.
 > ### Personen die sich nicht an diese bedingung halten, haben mit strafrechtlichen Folgen rechnen.
 > „Das Internet ist kein rechtsfreier Raum“ - A. Merkel
 >
+>
 >Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhatle Dritter als solche      gekennzeichnet.
 >Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen ensprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige 
 >Inhalte umgehend entfernen.
