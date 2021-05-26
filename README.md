@@ -12,7 +12,7 @@ Das BlueLife Webinterface wurde von Niclas Kedzierski entwickelt.
 >Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.
 > Ausgenommen davon sind folgende Personen/Unternehmen/Projekte:
 > - City-V.de (𝕵𝖊𝖋𝖋𝖊𝖗𝖞#3131, Benno2406#4569, letsplayberlin#7204 und nico-pergande.dev#3899)
-> - scrypth0n#6691
+> - policesystem.net (scrypth0n#6691 - Vertraglich abgesichert)
 > 
 > ### Personen die sich nicht an diese bedingung halten, haben mit strafrechtlichen Folgen rechnen.
 > „Das Internet ist kein rechtsfreier Raum“ - A. Merkel
