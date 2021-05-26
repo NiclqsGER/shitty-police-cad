@@ -25,4 +25,18 @@ Das BlueLife Webinterface wurde von Niclas Kedzierski entwickelt.
 >
 >Kontakt: Niclas@Kedziersk-i.de
 
-    
+## FAQ
+> # Das System ist richtig Schlecht programmiert!
+> Weiß ich, trozdem laden es Personen herunter ;)
+>
+> # Das System hast du geklaut!
+> Nein hab ich nicht. Habe auch Videomaterial von den Anfängen bis jetzt! Ebenfalls habe ich ein Repository mit mehrer zwischen Speicherungen
+> 
+> # Wie und wann darf ich es kommerziell nutzen?
+> Keine Ahnung? Frag doch mal nett nach.
+>
+> # Ab wann nutzt man etwas kommerziell?
+> Sobald du Geld verdienst, auch mit deinem FiveM Server :) 
+>
+> # XY hat gesagt (...)
+> Juckt mich nicht, wenn du ein Problem hast schreib mich an
