@@ -40,3 +40,6 @@ Das BlueLife Webinterface wurde von Niclas Kedzierski entwickelt.
 >
 > ### XY hat gesagt (...)
 > Juckt mich nicht, wenn du ein Problem hast schreib mich an
+>
+> ### XY nutzt dein System, obwohl die hier nicht aufgelistet sind!
+> Dann schreib mich an oder komm auf meinem Discord dsc.gg/cityv (Ich liebe Rechtsstreit)
