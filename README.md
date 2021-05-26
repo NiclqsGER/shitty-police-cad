@@ -30,7 +30,7 @@ Das BlueLife Webinterface wurde von Niclas Kedzierski entwickelt.
 > Weiß ich, es gibt trotzdem Personen die es herunterladen. lg 
 >
 > ### 2. Das System hast du geklaut!
-> Nein hab ich nicht. Habe auch Videomaterial von den Anfängen bis jetzt! Ebenfalls habe ich ein Repository mit mehrer zwischen Speicherungen
+> Nein hab ich nicht. Habe auch Videomaterial von den Anfängen bis jetzt! Ebenfalls habe ich ein Repository mit mehrere Zwischenspeicherungen
 > 
 > ### 3. Wie und wann darf ich es kommerziell nutzen?
 > Keine Ahnung? Frag doch mal nett nach.
