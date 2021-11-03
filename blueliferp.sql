@@ -58,7 +58,7 @@ CREATE TABLE `akten` (
   `WaffenFR` varchar(255) DEFAULT NULL,
   `PKWFR` varchar(255) DEFAULT NULL,
   `LKWFR` varchar(255) DEFAULT NULL,
-  `IS_GEFAHNDET` int(255) DEFAULT 0
+  `IS_GEFAHNDET` varchar(255) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 -- --------------------------------------------------------
