@@ -19,7 +19,7 @@
                 $ausbildung_new = $ausbildung_new+1;
             }
             require("./dist/config/mysql.php");
-            $stmt = $mysql->prepare("SELECT * FROM akten WHERE IS_GEFAHNDET = 1");
+            $stmt = $mysql->prepare("SELECT * FROM akten WHERE IS_GEFAHNDET = 'on'");
             $stmt->execute();
             $fahndung = 0;
             while($row = $stmt->fetch()) {
