@@ -9,7 +9,7 @@
 
 if(isset($_POST['submit'])) {
     require('./dist/config/mysql.php');
-    $stmt = $mysql->prepare("INSERT INTO akten (Vollständiger_Name, Aliases, Geschlecht, Telefonnummer, Groeße, Geburtstag, Augenfarbe, Haarfarbe, Sonstiges, MotorradFR, WaffenFR, PKWFR, LKWFR) VALUES (:vn, :ali, :gender, :tele, :gro, :gb, :ag, :hf, :sonst, :motorFR, :waffrp, :pkw, :lkw);");
+    $stmt = $mysql->prepare("INSERT INTO akten (Vollständiger_Name, Aliases, Geschlecht, Telefonnummer, Groeße, Geburtstag, Augenfarbe, Haarfarbe, Sonstiges, MotorradFR, WaffenFR, PKWFR, LKWFR, IS_GEFAHNDET) VALUES (:vn, :ali, :gender, :tele, :gro, :gb, :ag, :hf, :sonst, :motorFR, :waffrp, :pkw, :lkw, :fahndung);");
     $stmt->bindParam(":vn", $_POST['post_vn'], PDO::PARAM_STR);
     $stmt->bindParam(":ali", $_POST['post_alis'], PDO::PARAM_STR);
     $stmt->bindParam(":gender", $_POST['post_gender'], PDO::PARAM_STR);
@@ -24,6 +24,7 @@ if(isset($_POST['submit'])) {
     $stmt->bindParam(":pkw", $_POST['post_mrfr']);
     $stmt->bindParam(":lkw", $_POST['post_lkwfr']);
     $stmt->bindParam(":waffrp", $_POST['post_waffenfr']);
+    $stmt->bindParam(":fahndung", $_POST['post_fahndung']);
     
     $stmt->execute();
     echo '<div class="alert alert-success" role="alert">Die Akte wurde angelegt!</div>';
@@ -108,6 +109,10 @@ if(isset($_POST['submit'])) {
                 <div class="form-check">
                     <input name="post_waffenfr" type="checkbox" class="form-check-input" id="exampleCheck1">
                     <label class="form-check-label" for="exampleCheck1">Waffenschein?</label>
+                </div>
+                <div class="form-check">
+                    <input name="post_fahndung" type="checkbox" class="form-check-input" id="exampleCheck1">
+                    <label class="form-check-label" for="exampleCheck1">Fahndung?</label>
                 </div>
             </div>
         </div>
