@@ -18,7 +18,7 @@
                                 $stmt = $mysql->prepare("SELECT * FROM akten");
                                 $stmt->execute();
                                 while($row = $stmt->fetch()) {
-                                        if($row['IS_GEFAHNDET'] == 1) {
+                                        if($row['IS_GEFAHNDET'] == 'on') {
                                         ?>
                                         <tr>
                                         <td><?php echo $row['Vollständiger_Name'] ?></td>
