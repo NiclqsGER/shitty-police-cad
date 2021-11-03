@@ -173,6 +173,9 @@
                                 <th scope="col">Name</th>
                                 <th scope="col">Alias</th>
                                 <th scope="col">Telefonnummer</th>
+                                <th scope="col">PKW Führerschein</th>
+                                <th scope="col">LKW Führerschein</th>
+                                <th scope="col">Motorrad Führerschein</th>
                                 <th scope="col">Fahndung</th>
                                 <th scope="col-4"></th>
                                 </tr>
@@ -188,14 +191,26 @@
                                 <td><?php echo $row['Vollständiger_Name'] ?></td>
                                 <td><?php echo $row['Aliases'] ?></td>
                                 <td><?php echo $row['Telefonnummer'] ?></td>
-                                <?php if($row['IS_GEFAHNDET'] == 0) { ?>
-                                        <td><?php echo 'Nein' ?></td>
-                                <?php } else { ?>
+                                <?php if($row['PKWFR'] == 'on') { ?>
                                         <td><?php echo 'Ja' ?></td>
+                                <?php } else { ?>
+                                        <td><?php echo 'Nein' ?></td>
                                 <?php } ?>
-                                <?php if($_SESSION['power'] >= 10) { ?>
-                                <td><?php echo '<a href="index.php?p=interface&c=akten&id=' . $row['ID'] . '"><i class="fas fa-user-edit"></i></a>'; ?></td>
-                                <?php } ?>    
+                                <?php if($row['LKWFR'] == 'on') { ?>
+                                        <td><?php echo 'Ja' ?></td>
+                                <?php } else { ?>
+                                        <td><?php echo 'Nein' ?></td>
+                                <?php } ?>
+                                <?php if($row['MotorradFR'] == 'on') { ?>
+                                        <td><?php echo 'Ja' ?></td>
+                                <?php } else { ?>
+                                        <td><?php echo 'Nein' ?></td>
+                                <?php } ?>
+                                <?php if($row['IS_GEFAHNDET'] == 'on') { ?>
+                                        <td><?php echo 'Ja' ?></td>
+                                <?php } else { ?>
+                                        <td><?php echo 'Nein' ?></td>
+                                <?php } ?>
                                 </tr>
                                 <?php
                                 }
