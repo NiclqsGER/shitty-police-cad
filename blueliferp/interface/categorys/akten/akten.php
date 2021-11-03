@@ -111,7 +111,7 @@
                                                                 <div class="col-12 col-sm-12 col-md-3 col-xl-3" style="margin-top: 15px;">
                                                                         <label>Gefahndet?</label>
                                                                         <?php 
-                                                                        if($row['IS_GEFAHNDET'] == 1) { ?>
+                                                                        if($row['IS_GEFAHNDET'] == "on") { ?>
                                                                                 <input class="form-control border-danger" style="width: 100%; text-align: center;" type="text" placeholder="Readonly input here…" value="Ja" readonly>
                                                                         <?php } else { ?>
                                                                                 <input class="form-control" style="width: 100%; text-align: center;" type="text" placeholder="Readonly input here…" value="Nein" readonly>
