@@ -1,3 +1,5 @@
+                
+                
                 <div class="container-fluid overflow-auto" style=" border: 1px solid black;">
                         <table class="table table-sm">
                                 <thead>
@@ -16,13 +18,13 @@
                                 $stmt = $mysql->prepare("SELECT * FROM akten");
                                 $stmt->execute();
                                 while($row = $stmt->fetch()) {
-                                        if($row['IS_GEFAHNDET'] == 1) {
+                                        if($row['IS_GEFAHNDET'] == 'on') {
                                         ?>
                                         <tr>
                                         <td><?php echo $row['Vollständiger_Name'] ?></td>
                                         <td><?php echo $row['Aliases'] ?></td>
                                         <td><?php echo $row['Telefonnummer'] ?></td>
-                                        <?php if($row['IS_GEFAHNDET'] == 0) { ?>
+                                        <?php if($row['IS_GEFAHNDET'] == "on") { ?>
                                                 <td><?php echo 'Nein' ?></td>
                                         <?php } else { ?>
                                                 <td><?php echo 'Ja' ?></td>
