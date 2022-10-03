@@ -18,4 +18,4 @@
 
 <br />
 Give a ⭐️ if you like this project!
-But there will be no further support from my side. If you extend the dashboard, please mention the original source (Github)!
+But there will be no further support from my side. If you extend the dashboard, please mention the original source (Github)! You don't need to ask!
