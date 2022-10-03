@@ -3,9 +3,17 @@
   
 <br />
 <br />
-<br />
-  
 ## Built With
 - PHP
 - HTML
 - CSS
+
+  
+<br />
+<br />
+## Contributors
+- [Niclas-K](https://github.com/Niclas-Kedzierski)
+- [tim-it-ger](https://github.com/tim-it-ger)
+
+Give a ⭐️ if you like this project!
+But there will be no further support from my side. If you extend the dashboard, please mention the original source (Github)!
