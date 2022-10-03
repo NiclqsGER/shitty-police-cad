@@ -7,6 +7,7 @@
 - PHP
 - HTML
 - CSS
+- JS
 
 <br />
 
