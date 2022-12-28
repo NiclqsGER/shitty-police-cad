@@ -14,7 +14,7 @@
 ## Contributors
 [Niclas-Kedzierski](https://github.com/Niclas-Kedzierski)
 <br />
-[tim-it-ger](https://github.com/tim-it-ger)
+[tim-it-ger](https://github.com/tim-it-ger) (latest update)
 
 <br />
 
